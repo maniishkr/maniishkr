@@ -6,4 +6,4 @@ Learn from my work: [GitHub](https://github.com/maniishkr)
 
 You can connect with me on:  
 - [LinkedIn](https://www.linkedin.com/in/manish-kumar-7a5493129/)  
-- [Email](manishuitburdwan@gmail.com)
+- [Email](mailto:manishuitburdwan@gmail.com)
